@@ -17,6 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".collapsingtoolbar.CoordinatorActivity"/>
+        <activity android:name=".broadcast.BroadCastSimpleActivity"/>
+        <activity android:name=".thread.ThreadActivity"/>
     </application>
 
 </manifest>
